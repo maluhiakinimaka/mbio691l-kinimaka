@@ -4,7 +4,7 @@
 # The Future of Tropical Reef Ecosystems
 
 ## Overview
-This project explores the predicted changes in coral cover over the 21st century, focusing on the impacts of environmental variables such as latitude, sea surface temperature (SST) and pH levels. The objective is to visually summarize the output of ecological-evolutionary simulations predicting coral cover changes globally. This is especially relevant given expectations of declining tropical coral cover due to rapidly warming ocean temperatures and ocean acidification.
+This final project explores the predicted changes in coral cover over the 21st century, focusing on the impacts of environmental variables such as latitude, sea surface temperature (SST) and pH levels. The objective is to visually summarize the output of ecological-evolutionary simulations predicting coral cover changes globally. This is especially relevant given expectations of declining tropical coral cover due to rapidly warming ocean temperatures and ocean acidification.
 
 The data utilized in this project is sourced from the given file `coral_model.csv`, which contains output from simulations covering approximately 52,000 sites. Each of the 12 different simulation configurations reflects varying future climate change predictions. For detailed reading, refer to the original publication [here](https://www.biorxiv.org/content/10.1101/2024.07.23.604846v1.full).
 
@@ -39,7 +39,7 @@ This figure presents the predicted relative change in coral cover across various
 ### 2: Relative Change in Coral Cover Over the 21st Century by Latitude
 ![Figure 2](percent_change_CC_lat.svg)
 
-This scatter plot illustrates the mean percent change in coral cover as a function of latitude, highlighting geographic disparities in coral health.
+This scatter plot illustrates the mean percent change in coral cover as a function of latitude, highlighting geographic disparities in coral health over the coming century.
 
 ### 3: Relative Change in Mean Coral Cover over the 21st Century as a Function of SST and pH
 ![Figure 3](percent_change_CC_SST_pH.svg)
