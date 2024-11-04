@@ -1,7 +1,7 @@
-# MBIO 691L: VIZUALIZATION FINAL PROJECT
+# MBIO 691L: FINAL PROJECT
 ### Maluhia Stark-Kinimaka
 
-# Coral Reef Data Visualization Project
+# The Future of Tropical Reef Ecosystems
 
 ## Overview
 This project explores the predicted changes in coral cover over the 21st century, focusing on the impacts of environmental variables such as latitude, sea surface temperature (SST) and pH levels. The objective is to visually summarize the output of ecological-evolutionary simulations predicting coral cover changes globally. This is especially relevant given expectations of declining tropical coral cover due to rapidly warming ocean temperatures and ocean acidification.
