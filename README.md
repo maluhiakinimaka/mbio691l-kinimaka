@@ -1,3 +1,7 @@
-# mbio691l-kinimaka
-A repository to submit my final code for the MBIO691l project.
-test #1 for commit functionality
+# CORAL REEF DATA VIZUALIZATION FINAL PROJECT
+
+## MBIO 691L
+## Maluhia Stark-Kinimaka
+
+## Overview
+
