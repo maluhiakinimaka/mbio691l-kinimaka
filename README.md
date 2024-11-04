@@ -31,16 +31,19 @@ Visually summarize the output of these simulations in three figures of your choi
 
 ## Figures
 
-### Figure 1: Relative Change in Coral Cover Over the 21st Century
+### 1: Relative Change in Coral Cover Over the 21st Century
 ![Figure 1](percent_change_CC.svg)
-This figure presents the predicted relative change in coral cover across various locations, utilizing a Robinson projection for geographical representation.
 
-### Figure 2: Relative Change in Coral Cover Over the 21st Century by Latitude
+This figure presents the predicted relative change in coral cover across various locations, adapting a Robinson projection for geospatial mapping.
+
+### 2: Relative Change in Coral Cover Over the 21st Century by Latitude
 ![Figure 2](percent_change_CC_lat.svg)
+
 This scatter plot illustrates the mean percent change in coral cover as a function of latitude, highlighting geographic disparities in coral health.
 
-### Figure 3: Relative Change in Mean Coral Cover over the 21st Century as a Function of SST and pH
-![Figure 3](3D_plot.png)
+### 3: Relative Change in Mean Coral Cover over the 21st Century as a Function of SST and pH
+![Figure 3](percent_change_CC_SST_pH.svg)
+
 This 3D scatter plot visualizes the relationship between predicted changes in coral cover, sea surface temperature changes, and pH levels.
 
 ## Requirements
